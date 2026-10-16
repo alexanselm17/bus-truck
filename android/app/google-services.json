@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732088439487",
+    "project_id": "school-bus-track-4f29c",
+    "storage_bucket": "school-bus-track-4f29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732088439487:android:4326e3cae3e9643b88ec0a",
+        "android_client_info": {
+          "package_name": "com.njenga55.school_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732088439487-5k89ndvd4m6e2l5p8qtutspjvnkgoo9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjCyaXEwXe9p0yXEg2TWEwgHvxaLElF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732088439487-5k89ndvd4m6e2l5p8qtutspjvnkgoo9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
